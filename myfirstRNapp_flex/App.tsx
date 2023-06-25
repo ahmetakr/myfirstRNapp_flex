@@ -31,9 +31,9 @@ const styles = StyleSheet.create({
   background: {
     flex: 1,
     backgroundColor: 'brown',
-    flexDirection: 'row',
-    justifyContent: 'center',
-    alignItems: 'stretch'
+    //flexDirection: 'row',
+    //justifyContent: 'center',
+    //alignItems: 'stretch'
   },
 });
 
